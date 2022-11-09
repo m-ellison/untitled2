@@ -1,0 +1,8 @@
+rootProject.name = 'untitled2'
+
+// production code projects
+include 'salesforce-event-consumer', 'salesforce-event-producer'
+
+// reporting utility projects
+include 'code-coverage-report'
+
