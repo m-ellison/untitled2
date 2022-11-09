@@ -1,0 +1,9 @@
+plugins {
+    id 'dummy.java-conventions'
+    id 'dummy.micronaut'
+    id("io.micronaut.library") version "3.5.3"
+    id("com.github.johnrengelman.shadow") version "7.1.2"
+}
+
+
+

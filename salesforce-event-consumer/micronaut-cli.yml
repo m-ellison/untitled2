@@ -1,0 +1,6 @@
+applicationType: function
+defaultPackage: junit
+testFramework: junit
+sourceLanguage: java
+buildTool: gradle
+features: [annotation-api, app-name, assertj, aws-lambda, aws-v2-sdk, gradle, jackson-databind, java, junit, logback, lombok, micronaut-build, readme, shade, yaml]
